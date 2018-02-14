@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#000000"
+    android:background="#f57676"
     tools:context="com.example.alok.trigoassignment2.AutotextShow">
     <TextView
         android:id="@+id/terv"
